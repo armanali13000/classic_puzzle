@@ -34,18 +34,12 @@ Replace this with your real build link from EAS.
 
 ---
 
-## 🛠️ Run the Project Locally
-
-```bash
-git clone https://github.com/your-username/classic-puzzle-game.git
-cd classic-puzzle-game
-npm install
-npx expo start
 
 - Make sure you have Expo Go installed on your phone or use an emulator.
 
 
-📁 Project Structure
+## 📁 Project Structure
+
 arduino
 Copy
 Edit
@@ -59,6 +53,20 @@ Edit
 ├── app.json
 ├── eas.json
 └── README.md
+
+---
+
+## 🛠️ Run the Project Locally
+
+```bash
+git clone https://github.com/your-username/classic-puzzle-game.git
+cd classic-puzzle-game
+npm install
+npx expo start
+
+if not working npx expo start command run this command👇
+
+set EXPO_USE_DEV_SERVER=1 && npx expo start --tunnel
 
 
 
