@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "classic_puzzle",
-    "slug": "classic_puzzle",
+    "name": "Classic Puzzle",
+    "slug": "classic-puzzle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.armanali.classicpuzzle",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -24,6 +25,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d690c717-050e-436c-a8cf-05a742e83123"
+      }
     }
   }
 }

@@ -5,6 +5,7 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
@@ -35,3 +36,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# APK builds
+*.apk
