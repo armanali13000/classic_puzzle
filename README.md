@@ -29,8 +29,8 @@ A sliding tile puzzle game built with **React Native + Expo**, featuring:
 
 ## 📱 APK Download
 
-> [Download APK](  )  
-Replace this with your real build link from EAS.
+> [Download APK]( https://armanali13000.github.io/Armanix-Apps/ )  
+
 
 ---
 
