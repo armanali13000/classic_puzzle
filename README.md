@@ -1,4 +1,4 @@
-# 🧩 Classic Puzzle Game
+# 🧩 Classic Puzzle 
 
 A sliding tile puzzle game built with **React Native + Expo**, featuring:
 
@@ -40,9 +40,7 @@ Replace this with your real build link from EAS.
 
 ## 📁 Project Structure
 
-arduino
-Copy
-Edit
+```
 .
 ├── assets/
 │   ├── images/
@@ -59,8 +57,9 @@ Edit
 ## 🛠️ Run the Project Locally
 
 ```bash
-git clone https://github.com/your-username/classic-puzzle-game.git
-cd classic-puzzle-game
+
+git clone https://github.com/armanali13000/classic_puzzle.git
+cd classic_puzzle
 npm install
 npx expo start
 
